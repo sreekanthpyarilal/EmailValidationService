@@ -4,4 +4,4 @@ server:
 this:
   email:
     apiUrl: ${VALIDATION_URL:https://emailvalidation.abstractapi.com/v1/}
-    apiKey: ${KEY:143b3ac22f2344a3a7430514a37d5ae}
+    apiKey: ${KEY} // generate api from abstart api
